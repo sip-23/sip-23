@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Siphamandla Sips Mandindi
+## Hi there 👋, I'm Siphamandla **Sips** Mandindi
 
 👨🏾‍💻 Software Developer | 🤓 Data Analyst | 🦅 Learner
 
-<img src="9x0svr.gif" alt="Sips gif" width="100" height="80">
+<img src="9x0svr.gif" alt="Sips gif" width="500" height="400" align="center">
 
  ---
 
