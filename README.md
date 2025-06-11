@@ -2,7 +2,7 @@
 
 👨🏾‍💻 Software Developer | 🤓 Data Analyst | 🦅 Learner
 
-<img src=" >
+<img src="9x0svr.gif" alt="Sips gif" width="100" height="80">
 
  ---
 
