@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Siphamandla Sips Mandindi
+##  -Hi there 👋, I'm Siphamandla Sips Mandindi-
 
-<img src="9x0svr.gif" alt="Sips gif" width="300" height="250" >
+-<img src="9x0svr.gif" alt="Sips gif" width="300" height="250" >-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHp57N9bYRPCGgJg9KOUSjg%3D%3D) |
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ndiramandindi@gmail.com)
@@ -35,7 +35,7 @@ Here are some of my milestone projects:
 
 🔹 **Description:** A simple portfolio to showcase CodeSpace Cat Portfolio.  
 
-🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF02.git)) 
+🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF02.git)
 
 🔹 **Technologies:** HTML
 
