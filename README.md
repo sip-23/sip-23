@@ -3,7 +3,7 @@
 <img src="9x0svr.gif" alt="Sips gif" width="300" height="250" >
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHp57N9bYRPCGgJg9KOUSjg%3D%3D) |
-📧 Email: [ndiramandindi@gmail.com](mailto:ndiramandindi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ndiramandindi@gmail.com)
 
 ---
 
@@ -25,31 +25,50 @@ Here are some of my milestone projects:
 
 ### **1️⃣ First GitHub Project**
 
-🔹 **Description:** My first project using GitHub to manage files.  
+🔹 **Description:** My first project using GitHub to manage files. 
+
+🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_ChemoniqueHenning_SDF01.git)
+
 🔹 **Status:** ✅ Completed
 
 ### **2️⃣ CodeSpace Cat Portfolio**
 
 🔹 **Description:** A simple portfolio to showcase CodeSpace Cat Portfolio.  
+
+🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF02.git)) 
+
 🔹 **Technologies:** HTML
+
 🔹 **Status:** ✅ Completed
 
-### **3 CodeSpace Footer for responsiveness**
+### **3️⃣ CodeSpace Footer for responsiveness**
 
 🔹 **Description:** Implementaing CodeSpace footer using CSS.  
+
+🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF03.git)  
+
 🔹 **Technologies:** HTML, CSS
+
 🔹 **Status:** ✅ Completed
 
-### **4 CodeSpace Footer with Tailwind CSS**
+### **4️⃣ CodeSpace Footer with Tailwind CSS**
 
 🔹 **Description:** Implementaing CodeSpace footer using tailwind CSS.  
+
+🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF04.git) 
+
 🔹 **Technologies:** HTML, Tailwind CSS
+
 🔹 **Status:** ✅ Completed
 
-### **5 Pantry Inventry**
+### **5️⃣ Pantry Inventry**
 
 🔹 **Description:** Inventory and Grocery list log of all food items that tracks Expiry date.  
+
+🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/Pantry-Inventory.git) 
+
 🔹 **Technologies:** HTML, CSS
+
 🔹 **Status:** ✅ Completed
 
 ---
