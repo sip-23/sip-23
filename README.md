@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Siphamandla **Sips** Mandindi
 
+<img src="9x0svr.gif" alt="Sips gif" width="300" height="250" align="center">
+
+---
+
 👨🏾‍💻 Software Developer | 🤓 Data Analyst | 🦅 Learner
-
-<img src="9x0svr.gif" alt="Sips gif" width="500" height="400" align="center">
-
- ---
 
 ## 🎯 About Me
 
@@ -14,12 +14,22 @@ I'm a budding 🌱 software developer that is passinate about creating impactful
 
 ## 🛠️ Tech Stack
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github) 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white),
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" width="50px">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github" alt="GitHub" width="70px">
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white" alt="HTML5" width="65px">
+<img src="https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3" alt="CSS3" width="60px">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript" alt="JavaScript" width="80px">
+<img src="https://img.shields.io/badge/-React-black?style=flat-circle&logo=react" alt="React.js" width="60px">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" width="65px">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" alt="Pandas" width="65px">
+<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" alt="NumPy" width="65px">
+<img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" width="80px">
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" alt="Selenium" width="70px">
+<img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" alt="Matplotlib" width="80px">
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" width="60px">
+<img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" alt="tensorflow" width="80px">
+<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" alt="power-bi" width="80px">
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="visualstudio code" width="130px">
 
 ---
 
