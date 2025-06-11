@@ -2,7 +2,7 @@
 
 👨🏾‍💻 Software Developer | 🤓 Data Analyst | 🦅 Learner
 
-<a href="https://imgflip.com/gif/9x0svr"> </a>
+<img src=" >
 
  ---
 
