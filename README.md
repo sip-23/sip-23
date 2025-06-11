@@ -4,9 +4,14 @@
 <img src="9x0svr.gif" alt="Sips gif" width="300" height="250" >
 </p>
 
-<p align="center">[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHp57N9bYRPCGgJg9KOUSjg%3D%3D)]</p>
-
-<p align="center">[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ndiramandindi@gmail.com)]</p>
+<p align="center">
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHp57N9bYRPCGgJg9KOUSjg%3D%3D">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Linked in account" width="100" height="70">
+</a> | 
+<a href="mailto:ndiramandindi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email me @" width="100" height="70">
+</a>
+</p>
 
 ---
 
