@@ -19,6 +19,12 @@
 
 I'm a budding 🌱 software developer that is passinate about creating impactful and exciting technology that will improve the well being of people and systems. I enjoy working with technologies like HTML, Global CSS and frameworks like Tailwind and Bootstrap 🎓. I also enjoy working with data and have experience in statistical analysis, artificial intelligence 🤖 and cloud platforms. My interest 💡 in the Javascript, React ecosystem and Python developement has help me build Data centric tools that have helped business grow and strive 🚀🔥. Im also a life long learner and looking forward to building my first real-world application. 
 
+Work with Sips! And turn you business to the hightest level up! Even Coca-Cola knows it 😄.
+
+<p align="center">
+<img src="Sip_Up_Turn_Up.jpg" alt="Sip up, Turn Up with Coca-Cola" width="300" height="350" >
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
