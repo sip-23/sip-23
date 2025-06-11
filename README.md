@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I'm a budding 🌱 software developer that is passinate about creating impactful and exciting technology that will improve the well being of people and systems. I enjoy working with technologies like HTML, Global CSS and frameworks like Tailwind and Bootstrap 🎓. I also enjoy working with data and have experience in statistical analysis, artificial intelligence 🤖 and cloud platforms. My interest 💡 in the Javascript, React ecosystem and Python developement has help me build Data centric tools that have helped business grow and strive 🚀🔥. Im also a life long learner and looking forward to building my first real-world application. 
+I'm a budding 🌱 software developer that is passionate about creating impactful and exciting technology that will improve the well being of people and businesses. I enjoy working with technologies like HTML, Global CSS and frameworks like Tailwind CSS and Bootstrap 🎓. I also enjoy working with data and have experience in statistical analysis, artificial intelligence 🤖 and cloud platforms including Mircosoft Azure and AWS (Amazon Web Services). My interest 💡 in the Javascript, React ecosystem together with Python developement has help me build Data centric tools that have helped business grow and strive 🚀🔥. Im also a life long learner and looking forward to building more impactful and futuristic real-world applications. 
 
 ### Work with Sips! 
 And turn your business the right side up 📈 🚀! Even **Coca-Cola** knows it 🤣😄😅.
@@ -44,49 +44,41 @@ Here are some of my milestone projects:
 
 🔹 **Description:** My first project using GitHub to manage files. 
 
-🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_ChemoniqueHenning_SDF01.git)
-
-🔹 **Status:** ✅ Completed
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_ChemoniqueHenning_SDF01.git)
 
 ### **2️⃣ CodeSpace Cat Portfolio**
 
 🔹 **Description:** A simple portfolio to showcase CodeSpace Cat Portfolio.  
 
-🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF02.git)
-
 🔹 **Technologies:** HTML
 
-🔹 **Status:** ✅ Completed
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF02.git)
+
+
 
 ### **3️⃣ CodeSpace Footer for responsiveness**
 
-🔹 **Description:** Implementaing CodeSpace footer using CSS.  
-
-🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF03.git)  
+🔹 **Description:** Implementaing CodeSpace footer using CSS. 
 
 🔹 **Technologies:** HTML, CSS
 
-🔹 **Status:** ✅ Completed
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF03.git)  
 
 ### **4️⃣ CodeSpace Footer with Tailwind CSS**
 
 🔹 **Description:** Implementaing CodeSpace footer using tailwind CSS.  
 
-🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF04.git) 
-
 🔹 **Technologies:** HTML, Tailwind CSS
 
-🔹 **Status:** ✅ Completed
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF04.git) 
 
 ### **5️⃣ Pantry Inventry**
 
 🔹 **Description:** Inventory and Grocery list log of all food items that tracks Expiry date.  
 
-🔹 **Project Repository:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sip-23/Pantry-Inventory.git) 
-
 🔹 **Technologies:** HTML, CSS
 
-🔹 **Status:** ✅ Completed
+🔹 [... more about this project](https://github.com/sip-23/Pantry-Inventory.git) 
 
 ---
 
