@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Siphamandla Sips Mandindi
 
-👨🏾‍💻 Software Developer | 🚀 Excited to Learn & Build | 🤓 Data Analyst | 🦅 Free Spirited |
+👨🏾‍💻 Software Developer | 🤓 Data Analyst | 🦅 Learner
+
+<img src="https://imgflip.com/gif/9x0svr" alt="Sips cool gif">
 
  ---
 
