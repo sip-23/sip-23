@@ -44,7 +44,7 @@ Here are some of my milestone projects:
 
 🔹 **Description:** My first project using GitHub to manage files. 
 
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_ChemoniqueHenning_SDF01.git)
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_ChemoniqueHenning_SDF02.git)
 
 ### **2️⃣ CodeSpace Cat Portfolio**
 
@@ -52,7 +52,7 @@ Here are some of my milestone projects:
 
 🔹 **Technologies:** HTML
 
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF02.git)
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF03.git)
 
 
 
@@ -62,7 +62,7 @@ Here are some of my milestone projects:
 
 🔹 **Technologies:** HTML, CSS
 
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF03.git)  
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF04.git)  
 
 ### **4️⃣ CodeSpace Footer with Tailwind CSS**
 
@@ -70,7 +70,7 @@ Here are some of my milestone projects:
 
 🔹 **Technologies:** HTML, Tailwind CSS
 
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF04.git) 
+🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF05.git) 
 
 ### **5️⃣ Pantry Inventry**
 
