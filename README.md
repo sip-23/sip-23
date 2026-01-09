@@ -38,48 +38,6 @@ With Sips in your team, you can turn your business the right side up 📈 🚀! 
 
 ## 📌 Projects
 
-Here are some of my milestone projects:
-
-### **1️⃣ First GitHub Project**
-
-🔹 **Description:** My first project using GitHub to manage files. 
-
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_ChemoniqueHenning_SDF02.git)
-
-### **2️⃣ CodeSpace Cat Portfolio**
-
-🔹 **Description:** A simple portfolio to showcase CodeSpace Cat Portfolio.  
-
-🔹 **Technologies:** HTML
-
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF03.git)
-
-
-
-### **3️⃣ CodeSpace Footer for responsiveness**
-
-🔹 **Description:** Implementaing CodeSpace footer using CSS. 
-
-🔹 **Technologies:** HTML, CSS
-
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF04.git)  
-
-### **4️⃣ CodeSpace Footer with Tailwind CSS**
-
-🔹 **Description:** Implementaing CodeSpace footer using tailwind CSS.  
-
-🔹 **Technologies:** HTML, Tailwind CSS
-
-🔹 [... more about this project](https://github.com/sip-23/SIPMAN25499_FTO2505_GroupB_SipMandindi_SDF05.git) 
-
-### **5️⃣ Pantry Inventry**
-
-🔹 **Description:** Inventory and Grocery list log of all food items that tracks Expiry date.  
-
-🔹 **Technologies:** HTML, CSS
-
-🔹 [... more about this project](https://github.com/sip-23/Pantry-Inventory.git) 
-
 ---
 
 ## 🏆 GitHub Stats
